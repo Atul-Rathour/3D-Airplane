@@ -1,4 +1,4 @@
-![3D Airplane](./src/assets/image.png)
+![3D Airplane](./src/assets/image.png?v=2)
 
 # 3D Airplane Journey
 
