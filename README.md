@@ -1,15 +1,29 @@
-![Thumbnail video tutorial](https://user-images.githubusercontent.com/6551176/228133207-3de69eb0-80cc-4f64-a549-979628a6dfeb.jpg)
+![3D Airplane](./src/assets/image.png)
 
+# 3D Airplane Journey
 
-[Demo](https://codesandbox.io/p/github/wass08/r3f-wawatmos-part-2)
+## Overview
+This project is a 3D airplane journey experience built using **React**, **React Three Fiber (R3F)**, and **Vite**. It offers an interactive, immersive view of an airplane flying through different environments, providing a visually stunning journey that takes full advantage of WebGL rendering.
 
-[Video tutorial](https://youtu.be/_KlIkgvadmc)
+## Features
+- **3D airplane model**: A detailed airplane rendered in 3D.
+- **Smooth animations**: Realistic flight animations and movements.
+- **Interactive experience**: User can interact with the airplane and its surroundings.
+- **Optimized rendering**: Efficient rendering using React Three Fiber and Vite.
+- **Real-time lighting and shadows**: Enhanced visual effects using lighting and shadow techniques.
+- **Responsive design**: Works smoothly on different screen sizes and devices.
 
-[Starter pack](https://github.com/wass08/r3f-wawatmos-starter)
+## Technologies Used
+- **React**: For building the user interface.
+- **React Three Fiber (R3F)**: For managing the 3D scene.
+- **Three.js**: To render 3D objects and animations.
+- **Vite**: A fast build tool for front-end development.
 
+## Installation
 
-### 3D Model credits
+To get started with the project locally, follow these steps:
 
-Cloud by Poly by Google [CC-BY](https://creativecommons.org/licenses/by/3.0/) via Poly Pizza (https://poly.pizza/m/44cGXp6_8WD)
+1. Clone the repository:
 
-Airplane by Poly by Google [CC-BY](https://creativecommons.org/licenses/by/3.0/) via Poly Pizza (https://poly.pizza/m/8VysVKMXN2J)
+   ```bash
+   git clone https://github.com/YOUR-USERNAME/3d-airplane-journey.git
