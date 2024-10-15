@@ -8,9 +8,8 @@ This project is a 3D airplane journey experience built using **React**, **React 
 ## Features
 - **3D airplane model**: A detailed airplane rendered in 3D.
 - **Smooth animations**: Realistic flight animations and movements.
-- **Interactive experience**: User can interact with the airplane and its surroundings.
+- **Interactive experience**: User can interact with the airplane by scroll.
 - **Optimized rendering**: Efficient rendering using React Three Fiber and Vite.
-- **Real-time lighting and shadows**: Enhanced visual effects using lighting and shadow techniques.
 - **Responsive design**: Works smoothly on different screen sizes and devices.
 
 ## Technologies Used
